@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | King_ZOULOU</title>
-    <link>http://www.cetaking27.com/tag/academic/</link>
-      <atom:link href="http://www.cetaking27.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cetaking27.github.io/cetakingdom/tag/academic/</link>
+      <atom:link href="https://cetaking27.github.io/cetakingdom/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.cetaking27.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cetaking27.github.io/cetakingdom/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>http://www.cetaking27.com/tag/academic/</link>
+      <link>https://cetaking27.github.io/cetakingdom/tag/academic/</link>
     </image>
     
     <item>
       <title>👋 Version control systems (git)</title>
-      <link>http://www.cetaking27.com/post/getting-started/</link>
+      <link>https://cetaking27.github.io/cetakingdom/post/getting-started/</link>
       <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.cetaking27.com/post/getting-started/</guid>
+      <guid>https://cetaking27.github.io/cetakingdom/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;version-control-systems&#34;&gt;Version control systems.&lt;/h3&gt;
@@ -46,10 +46,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;git&amp;#43;&#34; srcset=&#34;
-               /post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_12cc5e03aea7ed1d90d94fb83d9386bb.webp 400w,
-               /post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_b21c5012f3a8b523884cd40a301c8fe9.webp 760w,
-               /post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://www.cetaking27.com/post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_12cc5e03aea7ed1d90d94fb83d9386bb.webp&#34;
+               /cetakingdom/post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_12cc5e03aea7ed1d90d94fb83d9386bb.webp 400w,
+               /cetakingdom/post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_b21c5012f3a8b523884cd40a301c8fe9.webp 760w,
+               /cetakingdom/post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://cetaking27.github.io/cetakingdom/cetakingdom/post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_12cc5e03aea7ed1d90d94fb83d9386bb.webp&#34;
                width=&#34;370&#34;
                height=&#34;326&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
