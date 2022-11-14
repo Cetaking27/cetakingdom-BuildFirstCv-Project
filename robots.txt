@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://www.cetaking27.com/sitemap.xml
