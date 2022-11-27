@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | веб-сайт kingZoulou</title>
+    <link>https://cetaking27.github.io/cetakingdom/ru/tag/academic/</link>
+      <atom:link href="https://cetaking27.github.io/cetakingdom/ru/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cetaking27.github.io/cetakingdom/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://cetaking27.github.io/cetakingdom/ru/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>👋 Version control systems (git)</title>
+      <link>https://cetaking27.github.io/cetakingdom/ru/post/getting-started/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://cetaking27.github.io/cetakingdom/ru/post/getting-started/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;version-control-systems&#34;&gt;Version control systems.&lt;/h3&gt;
+&lt;h2 id=&#34;general-concepts&#34;&gt;General concepts&lt;/h2&gt;
+&lt;p&gt;Version Control System (VCS) is used when several people work on one project. Usually, the main project tree is stored locally, in other words, the Version Control System (Version Control System, VCS) is software that allows you to track changes in documents, if necessary, roll them back, determine who and when made corrections, etc. The article discusses the types of VCS, the principles of their operation, and also provides examples of software products.&lt;/p&gt;
+&lt;h3 id=&#34;centralized-and-distributed-version-control-systems&#34;&gt;Centralized and distributed version control systems&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Centralized version control systems: These are client-server applications where a project repository exists in a single instance and is stored on the server. It was accessed through a special client application. Examples of such software products include CVS, Subversion.&lt;/li&gt;
+&lt;li&gt;Distributed Version Control System (DVCS): It allows you to store a repository (a copy of it) with each developer working with this system. In this case, you can allocate a central repository (conditionally), to which changes from local ones will be sent and, with it, these local repositories will be synchronized. When working with such a system, users periodically synchronize their local repositories with the central one and work directly with their local copy. After you make enough changes to the local copy, they (the changes) are sent to the server. In this case, the server, most often, is chosen conditionally, because in most DVCS there is no such thing as a &amp;ldquo;dedicated server with a central repository&amp;rdquo;. The two most well-known DVCS are Git and Mercurial.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;git&amp;#43;&#34; srcset=&#34;
+               /cetakingdom/ru/post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_12cc5e03aea7ed1d90d94fb83d9386bb.webp 400w,
+               /cetakingdom/ru/post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_b21c5012f3a8b523884cd40a301c8fe9.webp 760w,
+               /cetakingdom/ru/post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://cetaking27.github.io/cetakingdom/cetakingdom/ru/post/getting-started/git_hu9b1dc006f2c8356910a090d293063ce0_23661_12cc5e03aea7ed1d90d94fb83d9386bb.webp&#34;
+               width=&#34;370&#34;
+               height=&#34;326&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;h3 id=&#34;what-are-git-and-github&#34;&gt;What are Git and GitHub?&lt;/h3&gt;
+&lt;p&gt;Git is a version control system that has appealed to almost everyone, from developers to designers. GitHub can be considered a social network for storing code. This is a real Mecca for techies. Here you can practice development and come up with something of your own, find a lot of open-source projects, advanced technologies, various functions and designs. On GitHub, you learn and participate in other projects, store code for work or school, take the code of other projects and delve into all the details.&lt;/p&gt;
+&lt;h2 id=&#34;basic-git-commands&#34;&gt;Basic git commands&lt;/h2&gt;
+&lt;p&gt;The Git version control system is a set of command-line tools. They can be accessed from the terminal by entering the git command with various options.&lt;/p&gt;
+&lt;p&gt;Because Git is a distributed version control system, you can back up your local storage by simply backing up or archiving. The most commonly used git commands are:&lt;/p&gt;
+&lt;p&gt;– creation of the main repository tree:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   git init 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;– get updates (changes) of the current tree from the central repository:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  git pull
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;– pushing all the changes made to the local tree to the central repository:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  git push
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;– view the list of modified files in the current directory:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  git status
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;– view current changes:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  git diff
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;– saving current changes:
+– add all modified and/or created files and/or directories:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  git add .
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;– delete the file and/or directory from the repository index (the file and/or directory remains in the local directory):&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  git add имена_файлов
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;– удалить файл и/или каталог из индекса репозитория (при этом файл и/или каталог
+остаётся в локальной директории):&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   git rm имена_файлов
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;– saving added changes:&lt;/p&gt;
+&lt;p&gt;– save all added changes and all modified files:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   git commit -am &#39;Описание коммита&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;– save the added changes with a comment via the built-in editor:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    git commit
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;– creation of a new branch based on the current one:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   git checkout -b имя_ветки
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Switching to a branch:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; git checkout имя_ветки
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(if you switch to a branch that is not already in the local repository, it will be created and linked to remote)&lt;/p&gt;
+&lt;p&gt;– push changes to a specific branch to the central repository:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   git push origin имя_ветки
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;– merging the branch with the current tree:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   git merge --no-ff имя_ветки
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Delete a branch:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;– removal of a local branch already merged with the main tree:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   git branch -d имя_ветки
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Forced deletion of a local branch:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; git branch -D имя_ветки
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deleting a branch from the central repository:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; git push origin :имя_ветки
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GitHub is also a hosting web service for Git repositories. GitHub hosts the main repository of all projects. From this repository, participants copy their work. If you&amp;rsquo;re familiar with centralized source control systems (such as Team Foundation Server, SharePoint, or Visual SourceSafe), you&amp;rsquo;ll notice that Git uses a unique workflow and specialized terminology to support a distributed model. For example, Git does not block files, as is usually the case when a file is taken in for editing or checked in after editing. In fact, Git takes changes into account at a thinner level by comparing byte-by-byte files.&lt;/p&gt;
+&lt;p&gt;Details can be found :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Открыть свой git-hub&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;**улушить свои навики о git **&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://book.git-scm.com/docs/user-manua&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Знать все о ** Git**&lt;/a&gt; or &lt;a href=&#34;https://book.git-scm.com/docs/gitattributes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Git-guide&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://github.com/twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@git-twitter&lt;/a&gt; &lt;a href=&#34;https://github.com/linkedin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@Likendln&lt;/a&gt; &lt;a href=&#34;https://github.com/GusEllerm/git-academy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#git-academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;networking-and-server-solutions&#34;&gt;Networking and Server Solutions&lt;/h3&gt;
+&lt;p&gt;Git uses the network only for exchange operations with remote repositories.&lt;/p&gt;
+&lt;p&gt;The following protocols can be used:&lt;/p&gt;
+&lt;p&gt;git-protocol (URI scheme - git:) - an open protocol that requires the presence of a running git daemon on the server (supplied with Git), the protocol does not have means of user authentication; SSH (ssh:) - uses user authentication using key pairs, as well as a built-in Unix-system &amp;ldquo;main&amp;rdquo; SSH server (sshd), on the server side it is required to create accounts with git as a shell; HTTP and HTTPS (http:, https:) – uses the curl tool (for Windows , shipped with git), and its HTTP authentication capabilities, as well as its support for SSL and certificates. In the latter case, you need to work on the server side of a web application that acts as a layer between the Git commands on the server and the HTTP server (among them Is WebGitNet, developed on the MVC 4 ASP.NET). In addition to supporting the server-side push and pull commands, such web applications can also grant read-only access to the repository through a web browser.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
