@@ -5,10 +5,30 @@
     <loc>https://cetaking27.github.io/cetakingdom/ru/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/talk/example-talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/talk/example-talk/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/event/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
@@ -20,35 +40,65 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cetaking27.github.io/cetakingdom/fr/"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/"
                 />
+  </url><url>
+    <loc>https://cetaking27.github.io/cetakingdom/ru/post/</loc>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://cetaking27.github.io/cetakingdom/es/"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://cetaking27.github.io/cetakingdom/ru/"
+                href="https://cetaking27.github.io/cetakingdom/ru/post/"
                 />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/post/markdwon/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cetaking27.github.io/cetakingdom/ru/post/</loc>
-    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/post/markdwon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/post/markdwon/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/post/getting-started/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/post/getting-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/post/getting-started/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/tag/academic/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/tag/academic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/tag/academic/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/categories/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
@@ -60,16 +110,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://cetaking27.github.io/cetakingdom/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://cetaking27.github.io/cetakingdom/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ru"
                 href="https://cetaking27.github.io/cetakingdom/ru/categories/"
                 />
@@ -77,6 +117,16 @@
     <loc>https://cetaking27.github.io/cetakingdom/ru/category/demo/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/category/demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/category/demo/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/tags/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
@@ -88,16 +138,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://cetaking27.github.io/cetakingdom/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://cetaking27.github.io/cetakingdom/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ru"
                 href="https://cetaking27.github.io/cetakingdom/ru/tags/"
                 />
@@ -105,14 +145,44 @@
     <loc>https://cetaking27.github.io/cetakingdom/ru/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/post/writing-technical-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/post/writing-technical-content/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/publication-type/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/publication-type/3/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/publication/preprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/publication/preprint/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
@@ -124,77 +194,217 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://cetaking27.github.io/cetakingdom/es/publication_types/"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/publication_types/"
                 />
+  </url><url>
+    <loc>https://cetaking27.github.io/cetakingdom/ru/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cetaking27.github.io/cetakingdom/fr/publication_types/"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/tag/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://cetaking27.github.io/cetakingdom/ru/publication_types/"
+                href="https://cetaking27.github.io/cetakingdom/ru/tag/source-themes/"
                 />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cetaking27.github.io/cetakingdom/ru/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cetaking27.github.io/cetakingdom/ru/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/publication/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/slides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/slides/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/slides/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/slides/example/"
+                />
+  </url><url>
+    <loc>https://cetaking27.github.io/cetakingdom/ru/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/post/jupyter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/post/jupyter/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/tag/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/tag/deep-learning/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cetaking27.github.io/cetakingdom/ru/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cetaking27.github.io/cetakingdom/ru/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/tag/demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/tag/demo/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/project/"
+                />
+  </url><url>
+    <loc>https://cetaking27.github.io/cetakingdom/ru/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/project/external-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/project/external-project/"
+                />
+  </url><url>
+    <loc>https://cetaking27.github.io/cetakingdom/ru/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/project/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/project/example/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/publication-type/2/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/publication/journal-article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/publication/journal-article/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/publication-type/1/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/publication/conference-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/publication/conference-paper/"
+                />
   </url><url>
     <loc>https://cetaking27.github.io/cetakingdom/ru/admin/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cetaking27.github.io/cetakingdom/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://cetaking27.github.io/cetakingdom/ru/admin/"
+                />
   </url>
 </urlset>

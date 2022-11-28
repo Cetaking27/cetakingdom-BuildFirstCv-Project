@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>веб-сайт kingZoulou</title>
+    <title>Веб-сайт kingZoulou</title>
     <link>https://cetaking27.github.io/cetakingdom/ru/</link>
       <atom:link href="https://cetaking27.github.io/cetakingdom/ru/index.xml" rel="self" type="application/rss+xml" />
-    <description>веб-сайт kingZoulou</description>
+    <description>Веб-сайт kingZoulou</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cetaking27.github.io/cetakingdom/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>веб-сайт kingZoulou</title>
+      <title>Веб-сайт kingZoulou</title>
       <link>https://cetaking27.github.io/cetakingdom/ru/</link>
     </image>
     
@@ -33,72 +33,72 @@
     </item>
     
     <item>
-      <title>Markdown</title>
+      <title>Язык Разметка Markdown</title>
       <link>https://cetaking27.github.io/cetakingdom/ru/post/markdwon/</link>
       <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://cetaking27.github.io/cetakingdom/ru/post/markdwon/</guid>
-      <description>&lt;h1 id=&#34;theoretical-information&#34;&gt;Theoretical information&lt;/h1&gt;
-&lt;p&gt;Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.&lt;/p&gt;
-&lt;p&gt;The initial description of Markdown contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014, when long-standing Markdown contributors released CommonMark, an unambiguous specification and test suite for Markdown.&lt;/p&gt;
-&lt;h2 id=&#34;basic-information-about-markdown&#34;&gt;Basic information about Markdown&lt;/h2&gt;
-&lt;p&gt;To create a title, use the sign ( # ), for example:&lt;/p&gt;
+      <description>&lt;h1 id=&#34;теоретическая-информация&#34;&gt;Теоретическая информация&lt;/h1&gt;
+&lt;p&gt;Markdown - это легкий язык разметки для создания форматированного текста с помощью обычного текстового редактора. Джон Грубер и Аарон Шварц создали Markdown в 2004 году как язык разметки, привлекательный для человеческого чтения в виде исходного кода. Markdown широко используется в блоггинге, обмене мгновенными сообщениями, онлайн-форумах, программах для совместной работы, страницах документации и файлах readme.&lt;/p&gt;
+&lt;p&gt;Первоначальное описание Markdown содержало двусмысленности и вызывало вопросы без ответов, в результате чего реализация намеренно и случайно отклонялась от первоначальной версии. Эта проблема была решена в 2014 году, когда давние участники Markdown выпустили CommonMark, однозначную спецификацию и набор тестов для Markdown.&lt;/p&gt;
+&lt;h2 id=&#34;основная-информация-о-markdown&#34;&gt;Основная информация о Markdown&lt;/h2&gt;
+&lt;p&gt;Чтобы создать заголовок, используйте знак ( # ), например:&lt;/p&gt;
 &lt;p&gt;1       # This is heading 1
 2       ## This is heading 2
 3       ### This is heading 3
 4       #### This is heading 4&lt;/p&gt;
-&lt;p&gt;To make the text bold, enclose it in double asterisks:&lt;/p&gt;
+&lt;p&gt;Чтобы сделать текст жирным, заключите его в двойные звездочки:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;    - This text is **bold**.
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;To set an italic font for the text, enclose it in single asterisks:&lt;/p&gt;
+&lt;p&gt;Чтобы установить курсивный шрифт для текста, заключите его в одинарные звездочки:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;    - This text is *italic*.
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;To set bold and italicized text, enclose it in triple
-asterisks:&lt;/p&gt;
+&lt;p&gt;Чтобы выделить текст жирным шрифтом или курсивом, заключите его в тройные
+звездочки:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;    - This is text is both ***bold and italic***.
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An unordered (bulleted) list can be formatted using
-stars or dashes:&lt;/p&gt;
+&lt;p&gt;Неупорядоченный (маркированный) список может быть отформатирован с помощью
+звездочки или тире:&lt;/p&gt;
 &lt;p&gt;1           - List item 1
 2           - List item 2
 3           - List item 3&lt;/p&gt;
-&lt;p&gt;To nest one list into another, add an indent for the elements of the child list:&lt;/p&gt;
-&lt;p&gt;1           - List item 1
+&lt;p&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:
+1           - List item 1
 2               - List item A
 3               - List item B
 4            - List item 2&lt;/p&gt;
-&lt;p&gt;The ordered list can be formatted using the appropriate numbers:&lt;/p&gt;
-&lt;p&gt;1           1. First instruction
+&lt;p&gt;Упорядоченный список может быть отформатирован с использованием соответствующих номеров:
+1           1. First instruction
 2           1. Second instruction
 3           1. Third instruction&lt;/p&gt;
-&lt;p&gt;To nest one list into another, add an indent for the elements of the child list:&lt;/p&gt;
-&lt;p&gt;1           1. First instruction
+&lt;p&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:
+1           1. First instruction
 2               1. Sub-instruction
 3               1. Sub-instruction
 4           1. Second instruction&lt;/p&gt;
-&lt;p&gt;The Markdown syntax for an embedded link consists of a part [link text]
-representing the hyperlink text, and a part (file-name.md ) – the URL or the name of the file
-to which the link is given:&lt;/p&gt;
+&lt;p&gt;Синтаксис Markdown для встроенной ссылки состоит из части [текст ссылки]
+представляющей текст гиперссылки, и части (file-name.md ) - URL или имя файла
+на который дается ссылка:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;   [link text](file-name.md)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Markdown supports both embedding code fragments into a sentence and
-placing them between sentences in the form of separate fenced blocks. Fenced
-code blocks are an easy way to highlight syntax for code snippets. General
-format of fenced code blocks:&lt;/p&gt;
+&lt;p&gt;Markdown поддерживает как вставку фрагментов кода в предложение, так и
+размещение их между предложениями в виде отдельных огороженных блоков. Огражденные
+блоки кода - это простой способ выделить синтаксис фрагментов кода. Общий
+формат огороженных блоков кода:&lt;/p&gt;
 &lt;p&gt;1       &lt;code&gt;language 2           your code goes in here 3       &lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Upper and lower indexes:&lt;/p&gt;
+&lt;p&gt;Верхний и нижний индексы:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;    𝐻 indexe 2
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;it is written as       &lt;br&gt;
+&lt;p&gt;записывается как       &lt;br&gt;
 H~2~O&lt;/p&gt;
-&lt;p&gt;2 exposent 10&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;        it is written as
+&lt;p&gt;2 степени 10&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;        записывается как
 
                      2^10^
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;In-text formulas are made similarly to LaTeX formulas. For example, the formula sin2(𝑥) + cos2(𝑥) = 1 will be written as&lt;/p&gt;
+&lt;p&gt;Внутритекстовые формулы составляются аналогично формулам LaTeX. Например, формула sin2(𝑥) + cos2(𝑥) = 1 будет записана как&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;        $\sin^2 (x) + \cos^2 (x) = 1$
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Off - line formulas:   sin2(𝑥) + cos2(𝑥) = 1&lt;/p&gt;
+&lt;p&gt;Off - линейные формулы:   sin2(𝑥) + cos2(𝑥) = 1&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;{#eq:eq:sin2+cos2} со ссылкой в тексте «Смотри формулу ([-@eq:eq:sin2+cos2]).» it is written as
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;1       $$&lt;/p&gt;
@@ -106,34 +106,34 @@ H~2~O&lt;/p&gt;
 &lt;p&gt;3       $$ {#eq:eq:sin2+cos2}
 4
 5       Смотри формулу ([-@eq:eq:sin2+cos2]).&lt;/p&gt;
-&lt;h2 id=&#34;markdwon-and-the-other-languages&#34;&gt;Markdwon and the other languages&lt;/h2&gt;
-&lt;p&gt;to build a table on markdwon use :&lt;/p&gt;
+&lt;h2 id=&#34;маркдвон-и-другие-языки&#34;&gt;Маркдвон и другие языки&lt;/h2&gt;
+&lt;p&gt;для построения стола на markdwon используйте :&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;    header|hearder|header
     ---|:---:|---:
     content |conetent | content 
     content2 |conetent2 | content2 
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;conclusion&lt;/h2&gt;
-&lt;p&gt;Markwon is a library for Android that renders markdown as system-native Spannables. It gives ability to display markdown in all TextView widgets ( TextView, Button, Switch, CheckBox, etc), Notifications, Toasts, etc. No WebView is required. Library provides reasonable defaults for display style of markdown but also gives all the means to tweak the appearance if desired. All markdown features are supported (including limited support for inlined HTML code, markdown tables and images).&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;заключение&lt;/h2&gt;
+&lt;p&gt;Markwon - это библиотека для Android, которая отображает уценку в виде системных Spannables. Она дает возможность отображать уценку во всех виджетах TextView (TextView, Button, Switch, CheckBox и т.д.), Notifications, Toasts и т.д. WebView не требуется. Библиотека предоставляет разумные настройки по умолчанию для стиля отображения уценки, но также предоставляет все средства для настройки внешнего вида при желании. Поддерживаются все возможности уценки (включая ограниченную поддержку встроенного HTML-кода, таблиц уценки и изображений).&lt;/p&gt;
 &lt;h1 id=&#34;labraries&#34;&gt;labraries:&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MArkdown GUIDE &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>👋 Version control systems (git)</title>
+      <title>👋 Системы контроля версий (git)</title>
       <link>https://cetaking27.github.io/cetakingdom/ru/post/getting-started/</link>
       <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://cetaking27.github.io/cetakingdom/ru/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;version-control-systems&#34;&gt;Version control systems.&lt;/h3&gt;
-&lt;h2 id=&#34;general-concepts&#34;&gt;General concepts&lt;/h2&gt;
-&lt;p&gt;Version Control System (VCS) is used when several people work on one project. Usually, the main project tree is stored locally, in other words, the Version Control System (Version Control System, VCS) is software that allows you to track changes in documents, if necessary, roll them back, determine who and when made corrections, etc. The article discusses the types of VCS, the principles of their operation, and also provides examples of software products.&lt;/p&gt;
-&lt;h3 id=&#34;centralized-and-distributed-version-control-systems&#34;&gt;Centralized and distributed version control systems&lt;/h3&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;системы-контроля-версий&#34;&gt;Системы контроля версий.&lt;/h3&gt;
+&lt;h2 id=&#34;общие-понятия&#34;&gt;Общие понятия&lt;/h2&gt;
+&lt;p&gt;Система контроля версий (Version Control System, VCS) используется, когда над одним проектом работают несколько человек. Обычно основное дерево проекта хранится локально, другими словами, система контроля версий (Version Control System, VCS) - это программное обеспечение, позволяющее отслеживать изменения в документах, при необходимости откатывать их, определять, кто и когда внес исправления и т.д. В статье рассматриваются типы VCS, принципы их работы, а также приводятся примеры программных продуктов.&lt;/p&gt;
+&lt;h3 id=&#34;централизованные-и-распределенные-системы-контроля-версий&#34;&gt;Централизованные и распределенные системы контроля версий&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;Centralized version control systems: These are client-server applications where a project repository exists in a single instance and is stored on the server. It was accessed through a special client application. Examples of such software products include CVS, Subversion.&lt;/li&gt;
-&lt;li&gt;Distributed Version Control System (DVCS): It allows you to store a repository (a copy of it) with each developer working with this system. In this case, you can allocate a central repository (conditionally), to which changes from local ones will be sent and, with it, these local repositories will be synchronized. When working with such a system, users periodically synchronize their local repositories with the central one and work directly with their local copy. After you make enough changes to the local copy, they (the changes) are sent to the server. In this case, the server, most often, is chosen conditionally, because in most DVCS there is no such thing as a &amp;ldquo;dedicated server with a central repository&amp;rdquo;. The two most well-known DVCS are Git and Mercurial.&lt;/li&gt;
+&lt;li&gt;Централизованные системы контроля версий: Это клиент-серверные приложения, в которых репозиторий проекта существует в единственном экземпляре и хранится на сервере. Доступ к нему осуществляется через специальное клиентское приложение. Примерами таких программных продуктов являются CVS, Subversion.&lt;/li&gt;
+&lt;li&gt;Распределенная система контроля версий (DVCS): Позволяет хранить репозиторий (его копию) у каждого разработчика, работающего с этой системой. При этом можно выделить центральный репозиторий (условно), в который будут отправляться изменения из локальных, и с ним будут синхронизироваться эти локальные репозитории. При работе с такой системой пользователи периодически синхронизируют свои локальные репозитории с центральным и работают непосредственно со своей локальной копией. После внесения достаточного количества изменений в локальную копию, они (изменения) отправляются на сервер. При этом сервер, чаще всего, выбирается условно, так как в большинстве DVCS нет такого понятия, как &amp;ldquo;выделенный сервер с центральным репозиторием&amp;rdquo;. Две наиболее известные DVCS - это Git и Mercurial.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;
 
@@ -163,120 +163,153 @@ H~2~O&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;h3 id=&#34;what-are-git-and-github&#34;&gt;What are Git and GitHub?&lt;/h3&gt;
-&lt;p&gt;Git is a version control system that has appealed to almost everyone, from developers to designers. GitHub can be considered a social network for storing code. This is a real Mecca for techies. Here you can practice development and come up with something of your own, find a lot of open-source projects, advanced technologies, various functions and designs. On GitHub, you learn and participate in other projects, store code for work or school, take the code of other projects and delve into all the details.&lt;/p&gt;
-&lt;h2 id=&#34;basic-git-commands&#34;&gt;Basic git commands&lt;/h2&gt;
-&lt;p&gt;The Git version control system is a set of command-line tools. They can be accessed from the terminal by entering the git command with various options.&lt;/p&gt;
-&lt;p&gt;Because Git is a distributed version control system, you can back up your local storage by simply backing up or archiving. The most commonly used git commands are:&lt;/p&gt;
-&lt;p&gt;– creation of the main repository tree:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;   git init 
+&lt;h2 id=&#34;приступить&#34;&gt;Приступить&lt;/h2&gt;
+&lt;h3 id=&#34;что-такое-git-и-github&#34;&gt;Что такое Git и GitHub?&lt;/h3&gt;
+&lt;p&gt;Git - это система контроля версий, которая понравилась практически всем, от разработчиков до дизайнеров. GitHub можно считать социальной сетью для хранения кода. Это настоящая Мекка для технарей. Здесь вы можете попрактиковаться в разработке и придумать что-то свое, найти множество проектов с открытым исходным кодом, передовые технологии, различные функции и дизайн. На GitHub вы учитесь и участвуете в других проектах, храните код для работы или учебы, берете код других проектов и вникаете во все детали.&lt;/p&gt;
+&lt;h2 id=&#34;основные-команды-git&#34;&gt;Основные команды git&lt;/h2&gt;
+&lt;p&gt;Система контроля версий Git представляет собой набор инструментов командной строки. Доступ к ним можно получить из терминала, введя команду git с различными опциями.&lt;/p&gt;
+&lt;p&gt;Поскольку Git - это распределенная система контроля версий, вы можете создавать резервные копии в локальном хранилище путем простого резервного копирования или архивирования. Наиболее часто используемыми командами git являются:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;создание основного дерева репозитория:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; git init 
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;– get updates (changes) of the current tree from the central repository:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  git pull
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;получать обновления (изменения) текущего дерева из центрального хранилища:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git pull
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;– pushing all the changes made to the local tree to the central repository:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  git push
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;перенос всех изменений, внесенных в локальное дерево, в центральное хранилище:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git push
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;– view the list of modified files in the current directory:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  git status
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;просмотр списка измененных файлов в текущем каталоге:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git status
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;– view current changes:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  git diff
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;просмотреть текущие изменения:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git diff
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;– saving current changes:
-– add all modified and/or created files and/or directories:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  git add .
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;сохранение текущих изменений:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;добавить все измененные и/или созданные файлы и/или каталоги:&lt;/p&gt;
+&lt;p&gt;git add .&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;удалить файл и/или каталог из индекса хранилища (файл и/или каталог остается в локальном каталоге):&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git add имена_файлов
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;– delete the file and/or directory from the repository index (the file and/or directory remains in the local directory):&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  git add имена_файлов
-&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;– удалить файл и/или каталог из индекса репозитория (при этом файл и/или каталог
 остаётся в локальной директории):&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;   git rm имена_файлов
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;– saving added changes:&lt;/p&gt;
-&lt;p&gt;– save all added changes and all modified files:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;   git commit -am &#39;Описание коммита&#39;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;– save the added changes with a comment via the built-in editor:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;    git commit
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;– creation of a new branch based on the current one:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;   git checkout -b имя_ветки
-&lt;/code&gt;&lt;/pre&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Switching to a branch:&lt;/p&gt;
+&lt;p&gt;сохранение добавленных изменений:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;сохранить все добавленные изменения и все измененные файлы:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; git commit -am &#39;Описание коммита&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;сохранить добавленные изменения с комментарием через встроенный редактор:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  git commit
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;создание новой ветви на основе текущей:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; git checkout -b имя_ветки
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Переключение на филиал:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; git checkout имя_ветки
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;(if you switch to a branch that is not already in the local repository, it will be created and linked to remote)&lt;/p&gt;
-&lt;p&gt;– push changes to a specific branch to the central repository:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;   git push origin имя_ветки
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;– merging the branch with the current tree:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;   git merge --no-ff имя_ветки
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;Delete a branch:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;– removal of a local branch already merged with the main tree:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;   git branch -d имя_ветки
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;(если вы переходите на ветку, которой еще нет в локальном репозитории, она будет создана и связана с удаленным)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Forced deletion of a local branch:&lt;/p&gt;
+&lt;p&gt;перенести изменения определенной ветки в центральный репозиторий:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; git push origin имя_ветки
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;слияние ветви с текущим деревом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; git merge --no-ff имя_ветки
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Удалить ветку:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;удаление локальной ветви, уже объединенной с основным деревом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; git branch -d имя_ветки
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Принудительное удаление местного филиала:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; git branch -D имя_ветки
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Deleting a branch from the central repository:&lt;/p&gt;
+&lt;p&gt;Удаление ветви из центрального репозитория:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; git push origin :имя_ветки
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;GitHub is also a hosting web service for Git repositories. GitHub hosts the main repository of all projects. From this repository, participants copy their work. If you&amp;rsquo;re familiar with centralized source control systems (such as Team Foundation Server, SharePoint, or Visual SourceSafe), you&amp;rsquo;ll notice that Git uses a unique workflow and specialized terminology to support a distributed model. For example, Git does not block files, as is usually the case when a file is taken in for editing or checked in after editing. In fact, Git takes changes into account at a thinner level by comparing byte-by-byte files.&lt;/p&gt;
-&lt;p&gt;Details can be found :&lt;/p&gt;
+&lt;p&gt;GitHub также является веб-службой хостинга для репозиториев Git. На GitHub размещается главный репозиторий всех проектов. Из этого репозитория участники копируют свою работу. Если вы знакомы с централизованными системами контроля исходных текстов (такими как Team Foundation Server, SharePoint или Visual SourceSafe), вы заметите, что Git использует уникальный рабочий процесс и специализированную терминологию для поддержки распределенной модели. Например, Git не блокирует файлы, как это обычно происходит, когда файл берется для редактирования или проверяется после редактирования. Фактически, Git учитывает изменения на более тонком уровне, сравнивая файлы байт за байтом.&lt;/p&gt;
+&lt;p&gt;Подробности можно найти :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;👉 &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Открыть свой git-hub&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📚 &lt;a href=&#34;https://docs.github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;**улушить свои навики о git **&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://book.git-scm.com/docs/user-manua&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Знать все о ** Git**&lt;/a&gt; or &lt;a href=&#34;https://book.git-scm.com/docs/gitattributes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Git-guide&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://github.com/twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@git-twitter&lt;/a&gt; &lt;a href=&#34;https://github.com/linkedin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@Likendln&lt;/a&gt; &lt;a href=&#34;https://github.com/GusEllerm/git-academy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#git-academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;networking-and-server-solutions&#34;&gt;Networking and Server Solutions&lt;/h3&gt;
-&lt;p&gt;Git uses the network only for exchange operations with remote repositories.&lt;/p&gt;
-&lt;p&gt;The following protocols can be used:&lt;/p&gt;
-&lt;p&gt;git-protocol (URI scheme - git:) - an open protocol that requires the presence of a running git daemon on the server (supplied with Git), the protocol does not have means of user authentication; SSH (ssh:) - uses user authentication using key pairs, as well as a built-in Unix-system &amp;ldquo;main&amp;rdquo; SSH server (sshd), on the server side it is required to create accounts with git as a shell; HTTP and HTTPS (http:, https:) – uses the curl tool (for Windows , shipped with git), and its HTTP authentication capabilities, as well as its support for SSL and certificates. In the latter case, you need to work on the server side of a web application that acts as a layer between the Git commands on the server and the HTTP server (among them Is WebGitNet, developed on the MVC 4 ASP.NET). In addition to supporting the server-side push and pull commands, such web applications can also grant read-only access to the repository through a web browser.&lt;/p&gt;
+&lt;h3 id=&#34;сетевые-и-серверные-решения&#34;&gt;Сетевые и серверные решения&lt;/h3&gt;
+&lt;p&gt;Git использует сеть только для операций обмена с удаленными репозиториями.&lt;/p&gt;
+&lt;p&gt;Можно использовать следующие протоколы:&lt;/p&gt;
+&lt;p&gt;git-protocol (схема URI - git:) - открытый протокол, требующий наличия на сервере запущенного демона git (поставляется вместе с Git), протокол не имеет средств аутентификации пользователей; SSH (ssh: ) - использует аутентификацию пользователей с помощью пар ключей, а также встроенный в Unix-систему &amp;ldquo;главный&amp;rdquo; SSH-сервер (sshd), на стороне сервера требуется создание учетных записей с git в качестве оболочки; HTTP и HTTPS (http:, https:) - использует инструмент curl (для Windows , поставляется с git), и его возможности HTTP-аутентификации, а также поддержку SSL и сертификатов. В последнем случае на стороне сервера необходимо работать с веб-приложением, которое выступает в качестве прослойки между командами Git на сервере и HTTP-сервером (среди них WebGitNet, разработанный на MVC 4 ASP.NET). Помимо поддержки команд push и pull на стороне сервера, такие веб-приложения могут предоставлять доступ к репозиторию только для чтения через веб-браузер.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Writing technical content in Markdown</title>
+      <title>Написание технического контента в формате Markdown</title>
       <link>https://cetaking27.github.io/cetakingdom/ru/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://cetaking27.github.io/cetakingdom/ru/post/writing-technical-content/</guid>
-      <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the &lt;code&gt;syntax_highlighter&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+      <description>&lt;p&gt;Wowchemy создан для того, чтобы обеспечить беспроблемную работу создателей технического контента. Вы можете сосредоточиться на контенте, а Wowchemy сделает все остальное.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Подсвечивайте фрагменты кода, делайте заметки на уроках математики, рисуйте диаграммы из текстового представления&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;На этой странице вы найдете несколько примеров типов технического контента, который может быть отображен с помощью Wowchemy.&lt;/p&gt;
+&lt;h2 id=&#34;примеры&#34;&gt;Примеры&lt;/h2&gt;
+&lt;h3 id=&#34;код&#34;&gt;Код&lt;/h3&gt;
+&lt;p&gt;Wowchemy поддерживает расширение Markdown для подсветки синтаксиса кода. Вы можете настроить стили в опции &lt;code&gt;syntax_highlighter&lt;/code&gt; в вашем &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;```python
 import pandas as pd
 data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
 data.head()
 ```
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;отображается как&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for mindmaps.&lt;/p&gt;
-&lt;p&gt;Simply insert a Markdown &lt;code&gt;markmap&lt;/code&gt; code block and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
-&lt;p&gt;A simple mindmap defined as a Markdown list:&lt;/p&gt;
+&lt;p&gt;Wowchemy поддерживает расширение Markdown для ментальных карт.&lt;/p&gt;
+&lt;p&gt;Просто вставьте блок кода Markdown &lt;code&gt;markmap&lt;/code&gt; и по желанию задайте высоту карты, как показано в примере ниже.&lt;/p&gt;
+&lt;p&gt;Простая карта ума, определенная как список в формате Markdown:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;
 &lt;pre class=&#34;chroma&#34;&gt;
 &lt;code&gt;
@@ -290,7 +323,7 @@ data.head()
 &lt;/code&gt;
 &lt;/pre&gt;
 &lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;отображается как&lt;/p&gt;
 &lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
 
 &lt;pre&gt;- Hugo Modules
@@ -300,7 +333,7 @@ data.head()
   - wowchemy-plugins-reveal&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;p&gt;A more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
+&lt;p&gt;Более продвинутая карта ума с форматированием, кодовыми блоками и математикой:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;
 &lt;pre class=&#34;chroma&#34;&gt;
 &lt;code&gt;
@@ -326,7 +359,7 @@ data.head()
 &lt;/code&gt;
 &lt;/pre&gt;
 &lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;отображается как&lt;/p&gt;
 &lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
 
 &lt;pre&gt;- Mindmaps
@@ -348,15 +381,15 @@ data.head()
     - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&#34;charts&#34;&gt;Charts&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive charts.&lt;/p&gt;
-&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
-&lt;p&gt;Demo:&lt;/p&gt;
+&lt;h3 id=&#34;диаграммы&#34;&gt;Диаграммы&lt;/h3&gt;
+&lt;p&gt;Wowchemy поддерживает популярный формат &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; для интерактивных диаграмм.&lt;/p&gt;
+&lt;p&gt;Сохраните ваш Plotly JSON в папке страницы, например, &lt;code&gt;line-chart.json&lt;/code&gt;, а затем добавьте шорткод &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; туда, где вы хотите, чтобы появился график.&lt;/p&gt;
+&lt;p&gt;Демонстрация:&lt;/p&gt;
 
 
 
 
-&lt;div id=&#34;chart-843726519&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-412976358&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -366,23 +399,23 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-843726519&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-412976358&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
 &lt;/script&gt;
 
-&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively. (We wrap the LaTeX math in the Wowchemy &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown. The &lt;em&gt;math&lt;/em&gt; shortcode is new in v5.5-dev.)&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Вам также может быть полезен &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;математика&#34;&gt;Математика&lt;/h3&gt;
+&lt;p&gt;Wowchemy поддерживает расширение Markdown для $\LaTeX$ математики. Вы можете включить эту функцию, переключив опцию &lt;code&gt;math&lt;/code&gt; в вашем файле &lt;code&gt;config/_default/params.yaml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Чтобы отобразить &lt;em&gt;inline&lt;/em&gt; или &lt;em&gt;block&lt;/em&gt; математику, оберните вашу математику LaTeX с помощью &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; или &lt;code&gt;{&amp;lt;/* math */&amp;gt;}}$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, соответственно. (Мы обернули математику LaTeX в шорткод Wowchemy &lt;em&gt;math&lt;/em&gt;, чтобы Hugo не отобразил нашу математику как Markdown. Шорткод &lt;em&gt;math&lt;/em&gt; является новым в версии 5.5-dev.)&lt;/p&gt;
+&lt;p&gt;Пример &lt;strong&gt;математического блока&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;отображается как&lt;/p&gt;
 
 
 
@@ -391,12 +424,12 @@ $$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
 &lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as 
 
 $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;p&gt;Пример &lt;strong&gt;многострочная математика&lt;/strong&gt; с использованием математического перевода строки (&lt;code&gt;\\\\&lt;/code&gt;):&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;отображается как&lt;/p&gt;
 
 
 
@@ -407,8 +440,8 @@ f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
 $$
 
 
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;h3 id=&#34;диаграммы-1&#34;&gt;Диаграммы&lt;/h3&gt;
+&lt;p&gt;Wowchemy поддерживает расширение Markdown для диаграмм. Вы можете включить эту функцию, переключив опцию &lt;code&gt;diagram&lt;/code&gt; в вашем файле &lt;code&gt;config/_default/params.toml&lt;/code&gt; или добавив &lt;code&gt;diagram: true&lt;/code&gt; в основной текст вашей страницы.&lt;/p&gt;
 &lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;```mermaid
 graph TD
@@ -418,14 +451,14 @@ C --&amp;gt;|One| D[Result 1]
 C --&amp;gt;|Two| E[Result 2]
 ```
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;отображается как&lt;/p&gt;
 &lt;div class=&#34;mermaid&#34;&gt;graph TD
 A[Hard] --&gt;|Text| B(Round)
 B --&gt; C{Decision}
 C --&gt;|One| D[Result 1]
 C --&gt;|Two| E[Result 2]
 &lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Пример &lt;strong&gt;диаграммы последовательности&lt;/strong&gt;:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;```mermaid
 sequenceDiagram
 Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
@@ -438,7 +471,7 @@ John-&amp;gt;&amp;gt;Bob: How about you?
 Bob--&amp;gt;&amp;gt;John: Jolly good!
 ```
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;отображается как&lt;/p&gt;
 &lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
 Alice-&gt;&gt;John: Hello John, how are you?
 loop Healthcheck
@@ -449,7 +482,7 @@ John--&gt;&gt;Alice: Great!
 John-&gt;&gt;Bob: How about you?
 Bob--&gt;&gt;John: Jolly good!
 &lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Пример &lt;strong&gt;диаграммы Гантта&lt;/strong&gt;:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;```mermaid
 gantt
 section Section
@@ -461,7 +494,7 @@ Parallel 3   :         des5, after des3, 1d
 Parallel 4   :         des6, after des4, 1d
 ```
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;отображается как&lt;/p&gt;
 &lt;div class=&#34;mermaid&#34;&gt;gantt
 section Section
 Completed :done,    des1, 2014-01-06,2014-01-08
@@ -471,7 +504,7 @@ Parallel 2   :         des4, after des1, 1d
 Parallel 3   :         des5, after des3, 1d
 Parallel 4   :         des6, after des4, 1d
 &lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Пример &lt;strong&gt;диаграммы классов&lt;/strong&gt;:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;```mermaid
 classDiagram
 Class01 &amp;lt;|-- AveryLongClass : Cool
@@ -489,7 +522,7 @@ Class01 : int gorilla
 Class08 &amp;lt;--&amp;gt; C2: Cool label
 ```
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;отображается как&lt;/p&gt;
 &lt;div class=&#34;mermaid&#34;&gt;classDiagram
 Class01 &lt;|-- AveryLongClass : Cool
 Class03 *-- Class04
@@ -505,7 +538,7 @@ Class01 : int chimp
 Class01 : int gorilla
 Class08 &lt;--&gt; C2: Cool label
 &lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Пример &lt;strong&gt;диаграммы состояний&lt;/strong&gt;:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;```mermaid
 stateDiagram
 [*] --&amp;gt; Still
@@ -516,7 +549,7 @@ Moving --&amp;gt; Crash
 Crash --&amp;gt; [*]
 ```
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;отображается как&lt;/p&gt;
 &lt;div class=&#34;mermaid&#34;&gt;stateDiagram
 [*] --&gt; Still
 Still --&gt; [*]
@@ -525,12 +558,12 @@ Moving --&gt; Still
 Moving --&gt; Crash
 Crash --&gt; [*]
 &lt;/div&gt;
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
+&lt;h3 id=&#34;списки-todo&#34;&gt;Списки Todo&lt;/h3&gt;
+&lt;p&gt;Вы можете писать списки дел в формате Markdown:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;отображается как&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
 &lt;ul&gt;
@@ -539,10 +572,10 @@ Crash --&gt; [*]
 &lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
+&lt;h3 id=&#34;таблицы&#34;&gt;Таблицы&lt;/h3&gt;
+&lt;p&gt;Сохраните вашу таблицу в виде CSV-файла в папке вашей страницы, а затем отобразите ее, добавив шорткод &lt;em&gt;Table&lt;/em&gt; на вашу страницу:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;отображается как&lt;/p&gt;
 
 
 
@@ -609,41 +642,55 @@ Crash --&gt; [*]
 &lt;/table&gt;
 
 &lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
-&lt;p&gt;Academic supports a &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
-&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Click to view the spoiler&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;Academic поддерживает &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, также называемые &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, или &lt;em&gt;alerts&lt;/em&gt;. Обернув абзац в `{{% callout note %}} &amp;hellip; {{% /callout %}}}, он будет отображаться как примечание.&lt;/p&gt;
+&lt;p&gt;``markdown
+{{% /callout note %}}
+Markdown aside полезен для отображения уведомлений, подсказок или определений для ваших читателей.
+{{% /callout %}}&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;отображается как
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;div class=&amp;#34;alert alert-note&amp;#34;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;lt;div&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Отступ в Markdown полезен для отображения уведомлений, подсказок или определений для ваших читателей.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;lt;/div&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;/div&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;### Спойлеры
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Добавьте спойлер на страницу, чтобы раскрыть текст, например, ответ на вопрос, после нажатия кнопки.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;``markdown
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; spoiler text=&amp;#34;Нажмите для просмотра спойлера&amp;#34; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Вы нашли меня!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;отображается как&lt;/p&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
-  &lt;summary&gt;Click to view the spoiler&lt;/summary&gt;
-  &lt;p&gt;You found me!&lt;/p&gt;
+  &lt;summary&gt;Нажмите для просмотра спойлера&lt;/summary&gt;
+  &lt;p&gt;Ты нашел меня!&lt;/p&gt;
 &lt;/details&gt;
-&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
-&lt;p&gt;Academic enables you to use a wide range of &lt;a href=&#34;https://wowchemy.com/docs/getting-started/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;terminal&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fas&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Terminal  
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Python  
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;r-project&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} R
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
-
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
-
-  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
+&lt;h3 id=&#34;иконки&#34;&gt;Иконки&lt;/h3&gt;
+&lt;p&gt;Academic позволяет вам использовать широкий спектр &lt;a href=&#34;https://wowchemy.com/docs/getting-started/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;значков от &lt;em&gt;Font Awesome&lt;/em&gt; и &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; в дополнение к &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;HВот несколько примеров использования шорткода &lt;code&gt;icon&lt;/code&gt; для отображения иконок:&lt;/p&gt;
+&lt;p&gt;``markdown
+{{&amp;lt; icon name=&amp;ldquo;terminal&amp;rdquo; pack=&amp;ldquo;fas&amp;rdquo; &amp;gt;}} Терминал&lt;br&gt;
+{{&amp;lt; icon name=&amp;ldquo;python&amp;rdquo; pack=&amp;ldquo;fab&amp;rdquo; &amp;gt;}} Python&lt;br&gt;
+{{&amp;lt; icon name=&amp;ldquo;r-project&amp;rdquo; pack=&amp;ldquo;fab&amp;rdquo; &amp;gt;}} R&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;отображается как
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Терминал  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;### Вы нашли эту страницу полезной? Подумайте о том, чтобы поделиться ею 🙌
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -657,65 +704,6 @@ Crash --&gt; [*]
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://cetaking27.github.io/cetakingdom/ru/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://cetaking27.github.io/cetakingdom/ru/post/jupyter/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Welcome to Academic!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter lab index.ipynb
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: My post&amp;#39;s title
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: 2019-09-01
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Put any other Academic metadata here...
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -845,7 +833,74 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
+      <title>Отображение блокнотов Jupyter с помощью Academic</title>
+      <link>https://cetaking27.github.io/cetakingdom/ru/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://cetaking27.github.io/cetakingdom/ru/post/jupyter/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Добро пожаловать в Академический!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Добро пожаловать в Академический!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;установите-python-и-jupyterlab&#34;&gt;Установите Python и JupyterLab&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Установите Anaconda&lt;/a&gt; который включает Python 3 и JupyterLab.&lt;/p&gt;
+&lt;p&gt;В качестве альтернативы установите JupyterLab с помощью &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;создание-или-загрузка-блокнота-jupyter&#34;&gt;Создание или загрузка блокнота Jupyter&lt;/h2&gt;
+&lt;p&gt;Выполните следующие команды в терминале, заменив &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; и &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; на путь к папке вашего академического сайта и краткое название статьи в блоге (используйте дефисы вместо пробелов), соответственно:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter lab index.ipynb
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Команда &lt;code&gt;jupyter&lt;/code&gt; выше запустит редактор JupyterLab, позволяя нам добавить академические метаданные и написать содержание.&lt;/p&gt;
+&lt;h2 id=&#34;редактирование-метаданных-вашего-сообщения&#34;&gt;Редактирование метаданных вашего сообщения&lt;/h2&gt;
+&lt;p&gt;Первая ячейка вашего блокнота Jupter будет содержать метаданные вашего сообщения (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;В Jupter выберите &lt;em&gt;Markdown&lt;/em&gt; в качестве типа первой ячейки и обведите метаданные Academic тремя тире, указывая на то, что это YAML front matter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: Название моего поста
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: 2019-09-01
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Поместите сюда любые другие академические метаданные...
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Редактируйте метаданные своего сообщения, используя &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;документацию&lt;/a&gt; в качестве руководства по доступным опциям.&lt;/p&gt;
+&lt;p&gt;Чтобы установить &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, поместите изображение с именем &lt;code&gt;featured&lt;/code&gt; в папку вашего сообщения.&lt;/p&gt;
+&lt;p&gt;Другие советы, например, по использованию математики, см. в руководстве &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;преобразование-блокнота-в-markdown&#34;&gt;Преобразование блокнота в Markdown&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;пример&#34;&gt;Пример&lt;/h2&gt;
+&lt;p&gt;Этот пост был создан с помощью Jupyter. Оригинальные файлы можно найти по адресу &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Внешний проект</title>
+      <link>https://cetaking27.github.io/cetakingdom/ru/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://cetaking27.github.io/cetakingdom/ru/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Пример проекта</title>
       <link>https://cetaking27.github.io/cetakingdom/ru/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://cetaking27.github.io/cetakingdom/ru/project/example/</guid>
@@ -855,14 +910,6 @@ $$&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://cetaking27.github.io/cetakingdom/ru/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cetaking27.github.io/cetakingdom/ru/project/external-project/</guid>
-      <description></description>
     </item>
     
     <item>

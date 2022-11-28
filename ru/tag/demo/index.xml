@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | веб-сайт kingZoulou</title>
+    <title>Demo | Веб-сайт kingZoulou</title>
     <link>https://cetaking27.github.io/cetakingdom/ru/tag/demo/</link>
       <atom:link href="https://cetaking27.github.io/cetakingdom/ru/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>External Project</title>
+      <title>Внешний проект</title>
       <link>https://cetaking27.github.io/cetakingdom/ru/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://cetaking27.github.io/cetakingdom/ru/project/external-project/</guid>
