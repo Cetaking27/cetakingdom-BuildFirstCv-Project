@@ -1,6 +1,4 @@
-![Hugo-First-Academic-Porject]([https://example.com/path-to-your-image.jpg](https://www.bing.com/images/search?&view=detailv2&FORM=SBIHVR&idpvc=single&idpp=edgerp&noidpclose=1&iss=sbi&q=imgurl:https%3A%2F%2Fgohugo.io%2Fimages%2Fhugo-logo-wide.svg&pageurl=https%3A%2F%2Fgohugo.io%2F&pagetl=The+world%E2%80%99s+fastest+framework+for+building+websites+%7C+Hugo&imgalt=Hugo+Logo&imgsz=403x105)
-
----
+![Hugo Logo](https://gohugo.io/images/hugo-logo-wide.svg)
 # Academic Project: **First CV Project**
 
 ## Introduction  
